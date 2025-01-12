@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px black;
+}
+
+a {
+    cursor: pointer;    
+    color: inherit;
+    text-transform: uppercase;
+}
